@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import AdminLayout from './layouts/admin';
-import AdminDashboard from './AdminDashboard/AdminDashboard';
+import AdminDashboard from './pages/AdminDashboard/AdminDashboard';
 // import Home from './pages/Home/Home';
 // import NoMatch from './pages/NoMatch';
 
